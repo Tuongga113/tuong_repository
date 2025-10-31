@@ -1,2 +1,7 @@
 print("Hello")
-print("Noob bro")
+
+
+print
+
+
+print("TUONG PRO")
